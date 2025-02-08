@@ -2,9 +2,6 @@
 
 A cute and interactive Valentine's Day website created using **React, JavaScript, and Tailwind CSS** to express love in a unique way! 🎉  
 
-## Deployed from Netlify
-[text](https://elegant-arithmetic-4e5f96.netlify.app/)
-
 ## 🌟 Features  
 - 🎨 Beautiful UI with heart animations  
 - 📅 Select a date for our special time together  
@@ -12,19 +9,19 @@ A cute and interactive Valentine's Day website created using **React, JavaScript
 - 🐻 Cute winking bear with a heartfelt message  
 
 ## 🚀 Live Demo  
-[Click here to see the website](YOUR_WEBSITE_LINK)  
+[Click here to see the website](https://elegant-arithmetic-4e5f96.netlify.app/)
 
 ## 🛠️ Tech Stack  
-- **Frontend:** React, JavaScript, Tailwind CSS  
-- **Deployment:** GitHub Pages / Vercel  
+- **Frontend:** React, JavaScript 
+- **Deployment:** Netlify 
 
 ## 📸 Screenshots  
-![Screenshot](screenshot.png) *(Replace with actual screenshot path)*  
+![Screenshot](./public/Screenshot.png) 
 
 ## 🔥 How to Run Locally  
 1. Clone the repository  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+   git clone https://github.com/Nikunja0611/Valentines-react-app.git
 2. Navigate to the project folder
    ```bash
    cd your-project-folder
