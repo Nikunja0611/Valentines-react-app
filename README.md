@@ -17,6 +17,11 @@ A cute and interactive Valentine's Day website created using **React, JavaScript
 
 ## 📸 Screenshots  
 ![Screenshot](./public/Screenshot.png) 
+![Screenshot](./public/Screenshot%202.png) 
+![Screenshot](./public/Screenshot%203.png) 
+![Screenshot](./public/Screenshot%204.png) 
+![Screenshot](./public/Screenshot%205.png) 
+![Screenshot](./public/Screenshot%206.png) 
 
 ## 🔥 How to Run Locally  
 1. Clone the repository  
